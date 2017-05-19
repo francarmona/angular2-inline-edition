@@ -1,0 +1,33 @@
+{
+  "name": "angular2-inline-edition",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francarmona/angular2-inline-edition.git"
+  },
+  "author": {
+    "name": "Francisco Carmona",
+    "email": "fcarmona.olmedo@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "dependencies": {
+    "ng2-file-upload": "^1.2.0",
+    "tinymce": "^4.5.6",
+    "angular2-uuid": "^1.1.1",
+    "ngx-modal": "^0.0.29",
+    "@angular/router": "^4.0.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francarmona/angular2-inline-edition.git/issues"
+  },
+  "module": "angular2-inline-edition.js",
+  "typings": "angular2-inline-edition.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
